@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @uygararas
+-I am a freshman at Bilkent University studying CS major
