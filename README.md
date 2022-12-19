@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @uygararas
--I am a freshman at Bilkent University studying CS major
+-I am a sophomore Computer Science student at Bilkent University.
+Welcome to my profile
